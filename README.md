@@ -1,7 +1,7 @@
 # myportfolio
 นี่คือแฟ้มสะสมผลงานของฉัน
 
-[myportfolio](portfolio (1).png)
+[myportfolio](portfolio1.png)
 
 ประวัติส่วนตัว
 
